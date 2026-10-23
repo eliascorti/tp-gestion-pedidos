@@ -134,6 +134,6 @@ El grupo debe leer y entender todos los archivos. Ver [guía de defensa](docs/DE
 - [ ] Probar CRUD y navegación completa en un celular con Expo Go para SDK 54.
 - [ ] Probar inicio, categorías, detalle y formulario en modo avión; comprobar errores y reintento al recuperar conexión.
 - [ ] Revisar las cinco capturas y guardar capturas del celular si la cátedra las solicita.
-- [ ] Publicar el repositorio incluyendo código, lockfile, documentación y capturas.
+- [x] Publicar el repositorio incluyendo código, lockfile, documentación y capturas.
 - [ ] Cada integrante debe aportar cambios propios y commits con su identidad. No simular participación ni autores.
 - [ ] Ensayar la defensa y un cambio pequeño sin IA.
